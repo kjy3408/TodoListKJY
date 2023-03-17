@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    color: #121212;
+    font-size: 14px;
+}
+
+body {
+    margin: 0px;
+}
+
+h1, h2, h3, p, ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
